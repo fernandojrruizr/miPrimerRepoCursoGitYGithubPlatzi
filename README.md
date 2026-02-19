@@ -1,0 +1,2 @@
+# miPrimerRepoCursoGitYGithubPlatzi
+Repositorio 1 Curso GitYGithubPlatzi Clase12
